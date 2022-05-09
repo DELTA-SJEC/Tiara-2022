@@ -198,9 +198,9 @@ h2 {
 }
 
 p {
-    position: absolute;
+    /* position: absolute;
     bottom: 10vw;
     right: 10vw;
     width: 200px;
-    line-height: 1.5;
+    line-height: 1.5; */
 }
