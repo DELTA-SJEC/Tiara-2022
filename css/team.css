@@ -213,9 +213,6 @@ p {
     padding: 0px 50px !important;
 }
 
-/* media query */
-@media (max-width: 768px) { 
-}
 section img{
     width: 250px !important;
     height: 250px !important;
